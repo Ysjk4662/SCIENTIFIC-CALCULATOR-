@@ -13,7 +13,7 @@ switch = None
 def about_me():
     tmsg.showinfo('About Me','Myself YunusJK')
 def Help():
-    tmsg.showinfo("help",("https://bit.ly/3rxhAgk"))
+    tmsg.showinfo("help",("YouTube:https://bit.ly/3rxhAgk /n GitHub:https://github.com/Ysjk4662/SCIENTIFIC-CALCULATOR-"))
 my_menu = Menu(root)
 m1 = Menu(my_menu, tearoff=0, fg='blue')
 m1.add_command(label = 'About Me', command = about_me)
